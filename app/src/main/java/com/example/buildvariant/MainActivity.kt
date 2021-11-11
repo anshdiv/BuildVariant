@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         app_name.text = BuildConfig.appName
         url.text = BuildConfig.BASE_URL
+        url.text = BuildConfig.ABC
     }
 }
